@@ -1,0 +1,6 @@
+library(shiny)
+library(shinydashboard)
+library(DBI)
+library(RPostgreSQL)
+library(bcrypt)
+library(DT)
