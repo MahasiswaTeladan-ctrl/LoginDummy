@@ -1,0 +1,8 @@
+# Folder konfigurasi RStudio
+.Rproj.user/
+
+# File backup/temp
+*.tmp
+*.bak
+*~
+
