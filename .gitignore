@@ -2,8 +2,8 @@
 .Rproj.user/
 *.RData
 *.Rhistory
+
 # File backup/temp
 *.tmp
 *.bak
 *~
-
